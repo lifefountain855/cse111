@@ -1,0 +1,37 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program?
+MIDI to Minecraft converter
+2. What real-world problem will your program address or help to solve?
+This addresses the issue of having limited music in teh game Minecraft
+3. What will you learn from developing this program?
+I will learn how to compute multiple items from different units and create nicer printed results for the user.
+4. What Python modules will your program use?
+datetime, mido (for midi discernment)
+    (Some examples are: csv, datetime, functools, matplotlib, math,
+    pandas, pytest, random, requests, and tkinter.)
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+
+- reading and saving the information from the file
+- editing the information and putting it in a timeline
+- determining the correct instrument equivalent
+- compiling into multiple file code snippets
+- outputting to a file that describes where the snippets go
+- printing feedback to the user
+
+6. Will you write test functions to test at least two of your program
+functions?
+
+1. reading and saving the information from the file
+2. outputting to a file that describes where the snippets go
