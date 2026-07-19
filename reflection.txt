@@ -1,17 +1,15 @@
 Please respond thoroughly (at least two sentences for each question) to
 the following three questions.
 
-1. Describe an experience you had this semester where you saw the power of
-functions.
-
+1. Describe an experience you had this semester where you saw the power of functions.
+	An experience I had this semester where I saw the power of functions is when we learned about lambda functions and passing function references as arguments. You truly can do a lot when you create repetitive functions you can use more than once.
 
 
 2. In your judgment, what is the value of test functions?
+	A time when I saw the value of test functions is when we imported pytest. We used that library to create test functions, I saw how useful it was for testing my program. This inspired me to create test functions for my other programs.
 
 
-
-3. Describe your process for troubleshooting and fixing a program that
-has a problem. What is one thing you can do to improve your process?
-
+3. Describe your process for troubleshooting and fixing a program that has a problem. What is one thing you can do to improve your process?
+	When I run into a problem in my program, the first thing I do is look at the stack trace. This usually tells the type of error, usually syntax or runtime errors. From this, find the code that caused an error or had the incorrect data. Using the debugger is very helpful, and that is something I could do to improve my process is using it more often.
 
 
